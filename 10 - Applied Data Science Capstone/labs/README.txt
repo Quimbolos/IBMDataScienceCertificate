@@ -1,4 +1,4 @@
-#Applied Data Science Capstone
+# Applied Data Science Capstone
 
 - 1 - Data Collection - API.ipynb: First assignment notebook for Week 1, collecting data from SpaceX REST APIs.
 - 2 - Data Collection - Webscraping.ipynb: Second assignment notebook for Week 1, performing web scraping to collect and clean Falcon 9 historical launch records from a Wikipedia page.
